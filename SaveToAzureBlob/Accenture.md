@@ -1,0 +1,5 @@
+* **Administer and support Power Platform, SharePoint, OneDrive in Office 365.** 
+* **Development for Power Platform.** Examples: 1. Building approval workflows, 2. Lifecycle management flows, 3. Survey & Ranking App: AApp for ranking and showing overall report, 4. O365 Platform and Service Tracker: Project tracker with different filters for the client to check/update, also view Message Center Messages and track status.
+* **Support for Power Platform** (connectors, environments, DLP, CDS, flows/PowerApps), **SharePoint** (permission, workflows, list/libraries, deletion/restoration, Teams integration with sites, Guest account issues (B2B), customization, site policy, IRM, site features etc.)
+* **Have installed and configured Power Platform COE Toolkit in production.**
+* **Automation using PowerShell:** Have **automated** multiple processes using script. Examples:1. Automating owner name update in Access Denied page in every site, 2. Finding where a certain account has access in the whole tenant, 3. Fixing permission issue of lists using logic in PowerShell etc.
